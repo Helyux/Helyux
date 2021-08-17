@@ -1,10 +1,5 @@
-<h1 align="center"> Hello, welcome! 👋 </h1>
+<h1 align="center"> Hello and welcome! 👋 </h1>
 <h3 align="center">🎨 I am a system engineer by day and code enthusiast at night</h3>
-
-<br>
-
-- 🔭 I’m working on different kinds of small projects, usually in Python.
-- 🌱 I’m currently learning about Chrome extensions using javascript
 
 <br>
 
@@ -15,6 +10,9 @@
 </p>
 
 <br>
+
+- 🔭 I’m working on different kinds of small projects, usually in Python.
+- 🌱 I’m currently learning about chrome extensions using javascript
 
 <!--
 Here are some ideas to get you started:
