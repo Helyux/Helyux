@@ -1,6 +1,7 @@
 <h1 align="center"> Hello, welcome! 👋 </h1>
-<p align="center">My name is Lukas Mahler<p>
 <h3 align="center">🎨 I am a system engineer by day and code enthusiast at night</h3>
+
+<br>
 
 - 🔭 I’m working on different kinds of small projects, usually in Python.
 - 🌱 I’m currently learning about Chrome extensions using javascript
