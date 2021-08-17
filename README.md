@@ -1,8 +1,21 @@
-### Hi there 👋
+<h1 align="center"> Hello, welcome! 👋 </h1>
+<p align="center">My name is Lukas Mahler<p>
+<h3 align="center">🎨 I am a system engineer by day and code enthusiast at night</h3>
+
+- 🔭 I’m working on different kinds of small projects, usually in Python.
+- 🌱 I’m currently learning about Chrome extensions using javascript
+
+<br>
+
+<p align="center">
+<a href="https://twitter.com/LyuxGG" target="_blank"><img src="https://img.shields.io/badge/-%40LyuxGG-blue.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/LyuxGG" alt="Twitter"></a>
+  <br>
+<a href="mailto:m@hler.eu" target="_blank"><img src="https://img.shields.io/badge/-m%40hler.eu-red?style=flat&logo=Gmail&logoColor=white&link=mailto:m@hler.eu" alt="Mail"></a>
+</p>
+
+<br>
 
 <!--
-**Helyux/Helyux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
