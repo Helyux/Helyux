@@ -4,7 +4,7 @@
 <p align="center">
   🔭 I’m working on different kinds of small projects, usually in Python.<br>
   🛠️ I’m currently building a 3rd party csgo market monitoring bot.<br>
-  🌱 I’m currently learning about asynchrony and data queues and pipes.
+  🌱 I’m currently trying to learn Rust.
 </p>
 
 
