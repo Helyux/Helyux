@@ -2,9 +2,9 @@
 <h3 align="center">I am Lukas, a system engineer by day and code enthusiast at night.</h3>
 
 <p align="center">
-  🔭 I’m working on different kinds of small projects, usually in Python.<br>
-  🛠️ I’m currently building a 3rd party csgo market monitoring bot.<br>
-  🌱 I’m currently trying to learn Rust.
+  🔭 I'm working on different kinds of small projects, usually in Python.<br>
+  🛠️ I'm currently building a 3rd party CS2 market monitoring bot.<br>
+  🌱 I'm presently in the process of learning Rust.
 </p>
 
 
