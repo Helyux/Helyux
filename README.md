@@ -1,13 +1,6 @@
 <h1 align="center"> Hello and welcome! 👋 </h1>
 <h3 align="center">I am Lukas, a system engineer by day and code enthusiast at night.</h3>
 
-<p align="center">
-  🔭 I'm working on different kinds of small projects, usually in Python.<br>
-  🛠️ I'm currently building a 3rd party CS2 market monitoring bot.<br>
-  🌱 I'm presently in the process of learning Rust.
-</p>
-
-
 <div id="shields" align="center">
 
 [![Mail][mail-shield]][mail-url]
