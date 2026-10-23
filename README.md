@@ -1,4 +1,4 @@
-<h1 align="center"> Hello and welcome! 👋 </h1>
+<h1 align="center"> Moin! 👋 </h1>
 <h3 align="center">I am Lukas, a system engineer by day and code enthusiast at night.</h3>
 
 <div id="shields" align="center">
