@@ -1,5 +1,5 @@
 <h1 align="center"> Moin! 👋 </h1>
-<h3 align="center">I am Lukas, a system engineer by day and code enthusiast at night.</h3>
+<h3 align="center">I am Lukas, system engineer by day and code enthusiast at night.</h3>
 
 <div id="shields" align="center">
 
